@@ -1,0 +1,26 @@
+# CMake and IDE output
+/build/
+/build-*/
+/out/
+/.vs/
+/.vscode/
+
+# Generated binaries and intermediate files
+*.dll
+*.exe
+*.lib
+*.exp
+*.ilk
+*.obj
+*.pdb
+*.res
+*.suo
+*.user
+*.log
+
+# Local archives and temporary files
+*.zip
+*.7z
+*.rar
+*.tmp
+*.bak
